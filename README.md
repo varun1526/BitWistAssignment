@@ -1,2 +1,2 @@
-# BitWistAssignment
+# BitWiseAssignment
 Assignment
